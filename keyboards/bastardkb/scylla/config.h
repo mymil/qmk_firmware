@@ -29,11 +29,11 @@
 #define MATRIX_ROW_PINS { D7, B5, F7, F6, B6 }
 #define MATRIX_COL_PINS { B4, E6, C6, B1, B3, B2 }
 
-#define RGB_DI_PIN D2
+#define RGB_DI_PIN D3
 #define RGBLED_NUM 58
 #define RGBLED_SPLIT { 29, 29 }
 #define RGBLIGHT_LIMIT_VAL 120
 #define RGBLIGHT_ANIMATIONS
 #define DEBOUNCE 5
-#define SOFT_SERIAL_PIN D0
+#define SOFT_SERIAL_PIN D2
 #define MASTER_RIGHT
